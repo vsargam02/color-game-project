@@ -1,2 +1,2 @@
 # color-game-project
-Its is a RGB colored guessing game 
+It is a RGB colored guessing game 
